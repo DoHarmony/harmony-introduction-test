@@ -100,7 +100,6 @@ That is all the information you will receive for this exercise.
 ## Delivery
 
 - Fork or clone this repository and you have to create new repository with de answers and share with ctrlharmony, tidoharmony.
-- Dead line 27/06/2026
 - There is no hard time limit, but we expect a focused, quality solution over an exhaustive one.
 
 ---
