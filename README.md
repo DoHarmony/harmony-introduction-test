@@ -101,6 +101,7 @@ That is all the information you will receive for this exercise.
 
 - Fork or clone this repository and you have to create new repository with de answers and share with ctrlharmony, tidoharmony.
 - There is no hard time limit, but we expect a focused, quality solution over an exhaustive one.
+- Create a pull request over this repository or share the new repo with sebastian@doharmony.com, alexander@doharmony.com
 
 ---
 
